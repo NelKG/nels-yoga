@@ -68,7 +68,7 @@ body{
     display: flex;
     flex-direction: column;    
     height: 700px;   
-    background: url(../images/hero-image.jpg);
+    background: url(../images/hero-image.jpeg);
     align-items: center;
     background-repeat: no-repeat;
     background-size: cover;
