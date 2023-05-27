@@ -60,14 +60,24 @@ body{
 
 }
 #hero-outer{
-    height: 600px;
+    height: 900px;
     width: 100%;
     overflow: hidden;
+    position: relative;
+
+}
+#cover-text, #cover-text h2{
+    color:#2b2d2f;
+
+}
+#cover-text,#cover-text h3{
+color:#2b2d2f;
+
 }
 #hero-image{
     display: flex;
     flex-direction: column;    
-    height: 700px;   
+    height: 1200px;   
     background: url(../images/hero-image.jpeg);
     align-items: center;
     background-repeat: no-repeat;
@@ -93,4 +103,39 @@ body{
 
     }
     
+}
+#cover-text {
+    font-size: 100%;
+    font-family: Roboto, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+
+    width: 200px;
+    height: 100px;
+
+    padding-top: 40px;
+    padding-left: 10px;
+    
+    top: 30px;
+    left: 150px;
+    position: absolute;
+    
+    
+}
+#cover-text h3{
+    font-size: 100%;
+        font-family: Roboto, sans-serif;
+        text-transform: lowercase;
+        letter-spacing: 4px;
+    
+        width: 200px;
+        height: 100px;
+    
+        padding-top: 40px;
+        padding-right: 10px;
+    
+        right: 30px;
+        left: 150px;
+        position: absolute;
+
 }
