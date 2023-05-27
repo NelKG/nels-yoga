@@ -57,4 +57,40 @@ body{
 }
 .active{
     border-radius: 1px solid #252525;
+
+}
+#hero-outer{
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+}
+#hero-image{
+    display: flex;
+    flex-direction: column;    
+    height: 700px;   
+    background: url(../images/hero-image.jpg);
+    align-items: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    align-items: center;
+    background-attachment: fixed;
+    justify-content: center;
+    align-self: center;
+    width: 100%;
+    animation-name: hero-zoom;
+    animation-duration: 6s;
+    animation-fill-mode: backwards;
+}
+
+
+@keyframes hero-zoom {
+    from{
+        transform: scale(1)
+
+    }
+    to{
+        transform: scale(1.1);
+
+    }
+    
 }
