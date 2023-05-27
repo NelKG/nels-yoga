@@ -22,4 +22,39 @@ body{
 #logo {
     float: center;
     font-size: 300%;
+    display: flex;
+    justify-content: center;
+
+}
+#menu{
+    font-size: 120%;
+    letter-spacing: 4px;
+}
+#menu, #logo{
+    list-style: 80px;
+
+}
+
+#menu li {
+    float: left;
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    justify-content: space-between;
+    margin: 30px;
+    
+}
+#menu a{
+    text-decoration: none ;
+    color: inherit;
+
+}
+
+#menu a:hover{
+    border-bottom: 1px solid #252525;
+
+
+}
+.active{
+    border-radius: 1px solid #252525;
 }
