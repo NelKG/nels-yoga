@@ -147,26 +147,59 @@ color:#2b2d2f;
     
 
 }
-#left {
+#left-about-heading {
     display: flex;
-    padding-top: 30px;
+    padding-top: 150px;
     width: 33%;
     justify-content: flex-start;
-    float: left;
+    justify-content: space-between;
+    justify-content: space-around;
+    
 }
-#right{
+#right-about-heading{
     display: flex;
-    padding-top: 30px;
+    justify-content: flex-start;
+    padding-top: 150px;
         width: 33%;
-        justify-content: flex-end;
-        float: right;
+        justify-content: space-between;
+        justify-content: space-around;
+        
+        
 
 }
-#center{
+ 
+
+#center-about-heading{
     display: flex;
-    padding-top: 30px;
+    padding-top: 150px;
         width: 33%;
         justify-content:center;
         margin: 0 auto;
+        justify-content: space-between;
+        justify-content: space-around;
     
+}
+.Vinyasa {
+    display: flex;
+    justify-content: flex-start;
+    
+    text-align: left;
+    justify-content: space-between;
+        justify-content: space-around;
+        position: absolute;
+        float: left;
+
+
+}
+.Yin {
+    display: flex;
+    justify-content: flex-end;
+    
+    text-align: left;
+    justify-content: space-between;
+        justify-content: space-around;
+        position: absolute;
+        float: left;
+
+
 }
