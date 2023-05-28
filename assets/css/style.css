@@ -203,3 +203,27 @@ color:#2b2d2f;
 
 
 }
+
+#contact {
+         font-size: 150%;
+        font-family: Roboto, sans-serif;
+        text-transform: uppercase;
+        letter-spacing: 4px;
+    
+        width: 200px;
+        height: 100px;
+    
+        padding-top: 120px;
+        padding-right: 30px;
+    
+        right: 30px;
+        left: 150px;
+        position: absolute;
+
+
+}
+#main-footer{
+    display: flex;
+        justify-content: flex-start;
+
+}
