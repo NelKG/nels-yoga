@@ -19,26 +19,32 @@ body{
         color: #252525;
 
     }
-#logo {
-    float: center;
+#label {
+    
     font-size: 300%;
     display: flex;
     justify-content: center;
 
 }
-#menu{
+#menu, #label{
+}
+    
+#menu {
     font-size: 120%;
     letter-spacing: 4px;
 }
-#menu, #logo{
+#menu, #label{
     list-style: 80px;
+
 
 }
 
 #menu li {
-    float: left;
+     float: left;   
     list-style: none;
+    
     display: flex;
+    justify-content: flex-start;
     justify-content: space-around;
     justify-content: space-between;
     margin: 30px;
@@ -243,8 +249,21 @@ h3{
 
 
 }
+
+#yoga-image {
+    height: 400px;
+    width: 100%;
+    background: url('../images/yoga-class.webp') center center;
+}
+
 #main-footer{
     display: flex;
         justify-content: flex-start;
+
+}
+#yoga-class{
+    height: 600px;
+    width: 50%;
+    background: url('../images/yoga-class.webp') no-repeat;
 
 }
