@@ -6,84 +6,98 @@
     border: none;
 }
 
-body{
+body {
     font-family: Oswald, sans-serif;
     font-weight: 300;
-    color: #323232;        
+    color: #323232;
     background-color: #DDD0C8;
-    }
-    h1, h2 {
-        font-family: Roboto, sans-serif;
-        text-transform: uppercase;
-        letter-spacing: 4px;
-        color: #252525;
+}
 
-    }
+h1,
+h2 {
+    font-family: Roboto, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: #252525;
+
+}
+
 #label {
-    
+
     font-size: 300%;
     display: flex;
     justify-content: center;
 
 }
-#menu, #label{
-}
-    
+
+#menu,
+#label {}
+
 #menu {
     font-size: 120%;
     letter-spacing: 4px;
 }
-#menu, #label{
+
+#menu,
+#label {
     list-style: 80px;
 
 
 }
 
 #menu li {
-     float: left;   
+    float: left;
     list-style: none;
-    
+
     display: flex;
     justify-content: flex-start;
     justify-content: space-around;
     justify-content: space-between;
     margin: 30px;
-    
+
 }
-#menu a{
-    text-decoration: none ;
+
+#menu a {
+    text-decoration: none;
     color: inherit;
 
 }
 
-#menu a:hover{
+#menu a:hover {
     border-bottom: 1px solid #252525;
 
 
 }
-.active{
+
+.active {
     border-radius: 1px solid #252525;
 
 }
-#hero-outer{
+
+#hero-outer {
     height: 900px;
     width: 100%;
     overflow: hidden;
     position: relative;
 
 }
-#cover-text, #cover-text h2{
-    color:#2b2d2f;
+
+#cover-text,
+#cover-text h2 {
+    color: #2b2d2f;
 
 }
-#cover-text,#cover-text h3{
-color:#2b2d2f;
+
+#cover-text,
+#cover-text h3 {
+    color: #2b2d2f;
 
 }
-#hero-image{
+
+#hero-image {
     display: flex;
-    flex-direction: column;    
-    height: 1200px;   
+    flex-direction: column;
+    height: 1200px;
     background: url(../images/hero-image.jpeg);
     align-items: center;
     background-repeat: no-repeat;
@@ -100,16 +114,17 @@ color:#2b2d2f;
 
 
 @keyframes hero-zoom {
-    from{
+    from {
         transform: scale(1)
-
     }
-    to{
+
+    to {
         transform: scale(1.1);
 
     }
-    
+
 }
+
 #cover-text {
     font-size: 100%;
     font-family: Roboto, sans-serif;
@@ -121,28 +136,29 @@ color:#2b2d2f;
 
     padding-top: 40px;
     padding-left: 10px;
-    
+
     top: 30px;
     left: 150px;
     position: absolute;
-    
-    
+
+
 }
-#cover-text h3{
+
+#cover-text h3 {
     font-size: 100%;
-        font-family: Roboto, sans-serif;
-        text-transform: lowercase;
-        letter-spacing: 4px;
-    
-        width: 200px;
-        height: 100px;
-    
-        padding-top: 40px;
-        padding-right: 10px;
-    
-        right: 30px;
-        left: 150px;
-        position: absolute;
+    font-family: Roboto, sans-serif;
+    text-transform: lowercase;
+    letter-spacing: 4px;
+
+    width: 200px;
+    height: 100px;
+
+    padding-top: 40px;
+    padding-right: 10px;
+
+    right: 30px;
+    left: 150px;
+    position: absolute;
 
 }
 
@@ -150,22 +166,25 @@ color:#2b2d2f;
     display: flex;
     justify-content: flex-start;
     float: left;
-    
+
 
 }
+
 .parent {
     display: flex;
     width: 33%;
     flex-wrap: wrap;
-    
+
 }
-.child{
+
+.child {
     display: 1;
-    background:none;
+    background: none;
     padding: 1rem;
     margin: 2px;
 
 }
+
 h2 {
     overflow: hidden;
     white-space: nowrap;
@@ -173,37 +192,42 @@ h2 {
 
 
 }
-.parent{
+
+.parent {
     display: flex;
     align-items: center;
     width: 100%;
 }
-.child{
+
+.child {
     flex: 2;
     padding: 1rem;
 
 }
-h2{
+
+h2 {
     overflow: hidden;
-        white-space: nowrap;
-        text-overflow: ellipsis;
-        align-items:baseline;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    align-items: baseline;
 
 }
-h3{
+
+h3 {
     overflow: hidden;
-        white-space: nowrap;
-        text-overflow: ellipsis;
-        align-items: baseline;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    align-items: baseline;
 }
 
-#footer{
+#footer {
     display: flex;
     align-items: flex-end;
     height: 150px;
 
 
 }
+
 .social-networks {
     text-align: center;
 
@@ -223,29 +247,34 @@ h3{
 .form-section {
     clear: left;
     background-size: cover;
-        background-position: center;
-        height: 600px;
+    background-position: center;
+    height: 600px;
 }
 
-        
-            
 
-        
-#contact {
-         font-size: 150%;
-        font-family: Roboto, sans-serif;
-        text-transform: uppercase;
-        letter-spacing: 4px;
+
+
+
+#contact-text {
+    font-size: 80%;
+    font-family: Roboto, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+
+    width: 500px;
+    height: 200px;
+
+    padding-top: 40px;
+    padding-right: 10x;
+    float: center;
+
+    right: 30px;
+    left: 150px;
     
-        width: 200px;
-        height: 100px;
+    background-color: rgba(221, 208, 200, .6);
+    bottom: 200px;
+    position: absolute;
     
-        padding-top: 120px;
-        padding-right: 30px;
-    
-        right: 30px;
-        left: 150px;
-        position: absolute;
 
 
 }
@@ -256,12 +285,20 @@ h3{
     background: url('../images/yoga-class.webp') center center;
 }
 
-#main-footer{
-    display: flex;
-        justify-content: flex-start;
+#yoga-outer {
+    height: 400px;
+    width: 100%;
+    overflow: hidden;
 
 }
-#yoga-class{
+
+#main-footer {
+    display: flex;
+    justify-content: flex-start;
+
+}
+
+#yoga-class {
     height: 600px;
     width: 50%;
     background: url('../images/yoga-class.webp') no-repeat;
