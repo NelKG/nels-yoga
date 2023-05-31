@@ -27,37 +27,39 @@ h2 {
 #label{
     display: flex;
     justify-content: center;
+    font-size: 280%;
 }
 
 
 #nav {
-    display: flex;
-    text-align: center;
-    justify-content: center;
-
-}
-
-#nav {
-    font-size: 120%;
+    
+    font-size: 110%;
     letter-spacing: 4px;
+    text-align: center;
+    
+
+
 }
 
- 
 #nav li {
     
     list-style-type: none;
+    
 
     display: flex;
-    justify-content: center;
-    
+    display: inline-block;
+        
     margin: 30px;
     align-items: center;
+    justify-content: space-around;
+    justify-content: space-between;
 
 }
 
 #nav a {
     text-decoration: none;
     color: inherit;
+    text-align: center;
 
 }
 
@@ -95,8 +97,8 @@ h2 {
 #hero-image {
     display: flex;
     flex-direction: column;
-    height: 1200px;
-    background: url(../images/hero-image.jpeg);
+    height: 60vh;
+    background: url(../images/hero-image.jpg);
     align-items: center;
     background-repeat: no-repeat;
     background-size: cover;
