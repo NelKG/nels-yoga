@@ -164,67 +164,39 @@ h2 {
 
 #Classes {
     display: flex;
-    justify-content: flex-start;
-    float: left;
-
+    justify-content: center;
+    padding: 1rem;
+   
 
 }
 
 .parent {
     display: flex;
-    width: 33%;
-    flex-wrap: wrap;
+    justify-content: center;
 
 }
 
-.child {
-    display: 1;
-    background: none;
-    padding: 1rem;
-    margin: 2px;
-
-}
-
-h2 {
-    overflow: hidden;
-    white-space: nowrap;
-    text-overflow: ellipsis;
-
-
-}
-
-.parent {
-    display: flex;
-    align-items: center;
-    width: 100%;
-}
-
-.child {
-    flex: 2;
+h2{
+   display: flex;
+   justify-content: center;
+    text-align: center;
     padding: 1rem;
 
 }
-
-h2 {
-    overflow: hidden;
-    white-space: nowrap;
-    text-overflow: ellipsis;
-    align-items: baseline;
-
-}
-
 h3 {
-    overflow: hidden;
-    white-space: nowrap;
-    text-overflow: ellipsis;
-    align-items: baseline;
+    display: flex;
+    align-items: flex-end;
+    height: 25px;
+    display: inline;
+    justify-content: space-around;
+    justify-content: space-between;
 }
+    
 
 #footer {
     display: flex;
     align-items: flex-end;
     height: 150px;
-
 
 }
 
@@ -292,11 +264,9 @@ h3 {
 
 }
 
-#main-footer {
-    display: flex;
-    justify-content: flex-start;
 
-}
+
+
 
 #yoga-class {
     height: 600px;
@@ -304,3 +274,27 @@ h3 {
     background: url('../images/yoga-class.webp') no-repeat;
 
 }
+
+footer{
+    height: 30vh:
+}
+
+  .social-media {
+    text-align: center;
+
+
+  }     
+  .social-media > li {
+
+display: inline;
+
+  }
+  .social-media i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #252525;
+
+
+
+  }
