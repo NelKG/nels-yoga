@@ -24,7 +24,8 @@ h2 {
     color: #252525;
 
 }
-#label{
+
+#label {
     display: flex;
     justify-content: center;
     font-size: 280%;
@@ -32,23 +33,23 @@ h2 {
 
 
 #nav {
-    
+
     font-size: 110%;
     letter-spacing: 4px;
     text-align: center;
-    
+
 
 
 }
 
 #nav li {
-    
+
     list-style-type: none;
-    
+
 
     display: flex;
     display: inline-block;
-        
+
     margin: 30px;
     align-items: center;
     justify-content: space-around;
@@ -166,7 +167,7 @@ h2 {
     display: flex;
     justify-content: center;
     padding: 1rem;
-   
+
 
 }
 
@@ -176,13 +177,14 @@ h2 {
 
 }
 
-h2{
-   display: flex;
-   justify-content: center;
+h2 {
+    display: flex;
+    justify-content: center;
     text-align: center;
     padding: 1rem;
 
 }
+
 h3 {
     display: flex;
     align-items: flex-end;
@@ -191,7 +193,7 @@ h3 {
     justify-content: space-around;
     justify-content: space-between;
 }
-    
+
 
 #footer {
     display: flex;
@@ -237,11 +239,11 @@ h3 {
 
     right: 30px;
     left: 150px;
-    
+
     background-color: rgba(221, 208, 200, .6);
     bottom: 200px;
     position: absolute;
-    
+
 
 
 }
@@ -270,43 +272,69 @@ h3 {
 
 }
 
-footer{
-    height: 30vh:
+footer {
+    height: 15vh;
 }
 
-  .social-media {
+.social-media {
     text-align: center;
 
 
-  }     
-  .social-media > li {
+}
 
-display: inline;
+.social-media>li {
 
-  }
-  .social-media i {
+    display: inline;
+
+}
+
+.social-media i {
     font-size: 160%;
     margin: 1%;
     padding: 5%;
     color: #252525;
+}
 
 
 
-  }
+ .container-form {
+    margin: 0 auto;
+    padding: 20px 0;
+    
 
-  .form-section {
+}
+form{
+    display: grid;
+    grid-row-gap: 20px;
+}
+form p{
+    font-weight: 600;
+}
 
-      display: flex;
-      display: grid;
-      grid-template-columns: 40% 70%;
-      justify-content: center;
-      align-items: center;
-      width: 70%;
-      height: 80vh;
-      justify-content: space-around;
-      justify-content: space-between;
-      
+  input,select{
+    pad: 10px 15px;
+}
+
+    .btn{
+        background-color: #252525;
+        color: #fff;
+        padding: 10px 20px;
+        border: none;
+        font-size: 18px;
+        border-radius: 100px;
+        -webkit-border-radius: 100px;
+        -moz-border-radius: 100px;
+        -ms-border-radius: 100px
+        
+    }
+
+
+    
 
 
 
-  }
+
+
+
+
+

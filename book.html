@@ -41,30 +41,47 @@
     </header>
     
                        
-            <section class="form-section">
-                <form method="POST" action="https://formdump.codeinstitute.net/" class="signup-form">
-                    <h2>Lets get booking!</h2>
-                    <label for="fname">First Name</label>
-                    <input id="fname" name="first_name" type="text" required>
             
-                    <label for="lname">Last Name</label>
-                    <input id="lname" name="last_name" type="text" required>
-            
-                    <label for="email">Email Address</label>
-                    <input type="email" id="email" name="email_address" required>
-            
-                    <label for="Vinyasa">Vinyasa</label>
-                    <input type="radio" id="yoga" name="yoga_preference" value="yoga" required>
-                    <label for="Yin">Yin</label>
-                    <input type="radio" id="yoga" name="yoga_preference" value="yoga" required>
-                    <label for="both">Both</label>
-                    <input type="radio" id="both" name="yoga_preference" value="both" required>
-            
-                    <input class="join-button" type="submit"  value="">
-                    </form>
+                <div class="container-form">
+                <form action="#">
+                    <h2>Lets get Booking!</h2>
+                    <div class="form-field">
+                        <p>Your Name</p>
+                        <input type="text" placeholder="Your name">
+                        </div>
                 
-            </section>         
-                   
+                        <div class="form-field">
+                        <p>Your Email</p>
+                        <input type="email" placeholder="Your email">
+                        <div class="form-field">
+                        <p>Date</p>
+                        <input type="date">
+                        </div>
+                        <div class="form-field">
+                        <p>Time</p>
+                        <input type="time">
+                        </div>
+                        <div class="form-field">
+                        <p>How many people?</p>
+                        <select name="select" id="#">
+                        <option value="1">1 person</option>
+                        <option value="1">2 persons</option>
+                        <option value="1">3 persons</option>
+                        <option value="1">4 persons</option>
+                        <option value="1">5 persons</option>
+                        </select>
+                        </div>
+
+                        <button class="btn">Submit</button>
+                        
+                    
+                        
+                    
+                    
+                    </form>
+                </div>
+            </div>
+           
     
 <footer>
         <ul class="social-media">
