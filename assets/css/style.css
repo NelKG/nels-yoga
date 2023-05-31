@@ -282,12 +282,12 @@ h3 {
 #yoga-image {
     height: 400px;
     width: 100%;
-    background: url('../images/yoga-class.webp') center center;
+    background: url('../images/yoga-image.jpg') no-repeat center right;
 }
 
 #yoga-outer {
     height: 400px;
-    width: 100%;
+    width: 80%;
     overflow: hidden;
 
 }
