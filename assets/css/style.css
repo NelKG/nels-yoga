@@ -301,7 +301,9 @@ footer {
     margin: 0 auto;
     padding: 20px 0;
     display: flex;
-    justify-content: center;
+   
+    
+    justify-content:  center;
     
 
 }
@@ -323,12 +325,17 @@ form p{
         color: #fff;
         padding: 10px 20px;
         border: none;
-        font-size: 18px;
+        font-size: 14px;
         border-radius: 100px;
         -webkit-border-radius: 100px;
         -moz-border-radius: 100px;
         -ms-border-radius: 100px
         
+    }
+    h2{
+
+        display: flex;
+        justify-content: center;
     }
 
 
