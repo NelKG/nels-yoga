@@ -301,10 +301,9 @@ footer {
     margin: 0 auto;
     padding: 20px 0;
     display: flex;
-   
-    
-    justify-content:  center;
-    
+    background: url('../images/de-stress.avif') no-repeat center center;
+    justify-content: center;
+        
 
 }
 form{
