@@ -337,20 +337,24 @@ form p{
         justify-content: center;
     }
 
-    @media screen and (max-width: 950px) {
-
-        #label{
-            width: 65%;
-            height: 950px;
-            margin: 0 auto:
-        }
-    
-        #nav{
-            padding: 30px 0;
-            margin: 0;
-        }
-
+   
         
+                @media only screen and (max-width: 1200px) {
+                    < !-- For Desktop -->
+                }
+        
+                @media only screen and (max-width: 992px) {
+                    < !-- For Laptop -->
+                }
+        
+                @media only screen and (max-width: 767px) {
+                    < !-- For Tab -->
+                }
+        
+                @media only screen and (max-width: 480px) {
+                    < !-- For Mobile -->
+
+                }
     
 
 
