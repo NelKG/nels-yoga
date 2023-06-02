@@ -70,9 +70,8 @@ h2 {
 
 }
 
-.active {
-    border-radius: 1px solid #252525;
-
+#active {
+    color: red;
 }
 
 #hero-outer {
@@ -229,7 +228,7 @@ h3 {
     height: 200px;
 
     padding-top: 40px;
-    
+
 
 
 
@@ -274,7 +273,7 @@ footer {
 
 }
 
-.social-media > li {
+.social-media>li {
 
     display: inline;
 
@@ -361,80 +360,85 @@ h2 {
 
 
 }
+
 @media only screen and (min-width: 480px) {
     #classes {
-            font-size: 18px;
-    
-            margin: 0, auto;
-            padding: 0;
-        }
-    
-        #contact-text {
-            font-size: 18px;
-        }
-    
-    }
-    
-    #label {
         font-size: 18px;
-    
+
+        margin: 0, auto;
+        padding: 0;
     }
-    
-    
-    #menu {
-    
-        display: inline;
-        font-size: 14px;
+
+    #contact-text {
+        font-size: 18px;
     }
-        @media only screen and (max-width: 768x) {
-            #classes {
-                font-size: 18px;
-    
-                margin: 0, auto;
-                padding: 0;
-            }
-    
-            #contact-text {
-                font-size: 18px;
-            }
-    
-        }
-                @media only screen and (min-width: 780px) {
-                    #classes {
-                        font-size: 18px;
-        
-                        margin: 0, auto;
-                        padding: 0;
-                    }
-        
-                    #contact-text {
-                        font-size: 18px;
-                    }
-        
-                }
-                                @media only screen and (max-width: 992px) {
-                                    #classes {
-                                        font-size: 18px;
-                
-                                        margin: 0, auto;
-                                        padding: 0;
-                                    }
-                
-                                    #contact-text {
-                                        font-size: 18px;
-                                    }
-                
-                                }
-                                                                @media only screen and (min-width: 992px) {
-                                                                    #classes {
-                                                                        font-size: 18px;
-                                
-                                                                        margin: 0, auto;
-                                                                        padding: 0;
-                                                                    }
-                                
-                                                                    #contact-text {
-                                                                        font-size: 18px;
-                                                                    }
-                                
-                                                                }
+
+}
+
+#label {
+    font-size: 18px;
+
+}
+
+
+#menu {
+
+    display: inline;
+    font-size: 14px;
+}
+
+@media only screen and (max-width: 768x) {
+    #classes {
+        font-size: 18px;
+
+        margin: 0, auto;
+        padding: 0;
+    }
+
+    #contact-text {
+        font-size: 18px;
+    }
+
+}
+
+@media only screen and (min-width: 780px) {
+    #classes {
+        font-size: 18px;
+
+        margin: 0, auto;
+        padding: 0;
+    }
+
+    #contact-text {
+        font-size: 18px;
+    }
+
+}
+
+@media only screen and (max-width: 992px) {
+    #classes {
+        font-size: 18px;
+
+        margin: 0, auto;
+        padding: 0;
+    }
+
+    #contact-text {
+        font-size: 18px;
+    }
+
+}
+
+@media only screen and (min-width: 992px) {
+    #classes {
+        font-size: 18px;
+
+        margin: 0, auto;
+        padding: 0;
+    }
+
+    #contact-text {
+        font-size: 18px;
+    }
+
+}
