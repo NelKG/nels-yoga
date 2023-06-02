@@ -175,7 +175,9 @@ h1{
     display: flex;
     justify-content: center;
     padding: 1rem;
-    background-color: rgba(221, 208, 200, .6);
+    
+    
+
 
 
 }
@@ -185,6 +187,7 @@ h1{
     justify-content: center;
     padding: 1rem;
     
+    
 
 }
 
@@ -193,7 +196,7 @@ h2 {
     justify-content: center;
     text-align: center;
     padding: 1rem;
-    background-color: rgba(221, 208, 200, .6);
+    
     
 
 }
@@ -205,7 +208,8 @@ h3 {
     display: inline;
     justify-content: space-around;
     justify-content: space-between;
-    background-color: rgba(221, 208, 200, .6);
+    color: rgba(221, 208, 200, .6);
+    
     
 }
 
