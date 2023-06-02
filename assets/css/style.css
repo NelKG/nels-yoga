@@ -219,7 +219,7 @@ h3 {
 }
 
 #contact-text {
-    font-size: 80%;
+    font-size: 60%;
     font-family: Roboto, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
@@ -229,7 +229,8 @@ h3 {
 
     padding-top: 40px;
     
-    float: center;
+
+
 
     right: 30px;
     left: 150px;
@@ -245,15 +246,16 @@ h3 {
 #yoga-image {
     height: 400px;
     width: 100%;
-    background: url('../images/yoga-image.jpg') no-repeat center right;
+    background: url('../images/yoga-image.jpg') no-repeat center center;
 }
 
 #yoga-outer {
     height: 400px;
-    width: 80%;
+    width: 100%;
     overflow: hidden;
 
 }
+
 #yoga-class {
     height: 600px;
     width: 50%;
@@ -286,135 +288,100 @@ footer {
 
 
 
- .container-form {
+.container-form {
     margin: 0 auto;
     padding: 20px 0;
     display: flex;
     background: url('../images/de-stress.avif') no-repeat center center;
     justify-content: center;
-    
-        
+
+
 
 }
-form{
+
+form {
     display: grid;
     grid-row-gap: 20px;
-    
-    
+
+
 }
-form p{
+
+form p {
     font-weight: 600;
 }
 
-  input,select{
+input,
+select {
     padding: 10px 15px;
 }
 
-    .btn{
-        background-color: #252525;
-        color: #fff;
-        padding: 10px 20px;
-        border: none;
+.btn {
+    background-color: #252525;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    font-size: 14px;
+    border-radius: 100px;
+
+
+}
+
+h2 {
+
+    display: flex;
+    justify-content: center;
+}
+
+
+@media only screen and (max-width: 480px) {
+    #classes {
+        font-size: 18px;
+
+        margin: 0, auto;
+        padding: 0;
+    }
+
+    #contact-text {
+        font-size: 18px;
+    }
+
+}
+
+#label {
+    font-size: 18px;
+
+}
+
+
+#menu {
+
+    display: inline;
+    font-size: 14px;
+
+
+}
+@media only screen and (min-width: 480px) {
+    #classes {
+            font-size: 18px;
+    
+            margin: 0, auto;
+            padding: 0;
+        }
+    
+        #contact-text {
+            font-size: 18px;
+        }
+    
+    }
+    
+    #label {
+        font-size: 18px;
+    
+    }
+    
+    
+    #menu {
+    
+        display: inline;
         font-size: 14px;
-        border-radius: 100px;
-    
-        
     }
-    h2{
-
-        display: flex;
-        justify-content: center;
-    }
-
-
-   
-        
-                
-                    
-                    
-
-                   
-
-                   
-                
-                                        @media only screen and (min-width: 768px) {
-                                            #classes {
-                                                width: 65%;
-                    
-                                                margin: 0, auto;
-                                                padding: 0;
-                                            }
-                    
-                                            #menu {
-                    
-                                                display: inline;
-                    
-                                            }
-        
-               
-                        }
-                          @media only screen and (min-width: 992px) {
-                                #classes {
-                               width: 65%;
-                        
-                                  margin: 0, auto;
-                               padding: 0;
-                  }
-                        
-                         #menu {
-                        
-                           display: inline;
-                           height: 20vh;
-                        
-                                                     }
-                   
-                
- @media only screen and (min-width: 1200px) {
-     #classes {
-         width: 65%;
-
-         margin: 0, auto;
-         padding: 0;
-     }
-
-     #menu {
-
-         display: inline;
-         height: 20vh;
-
-     }
-          @media only screen and (max-height: 425px) {
-              #classes {
-                  width: 65%;
-    
-                  margin: 0, auto;
-                  padding: 0;
-              }
-    
-              #menu {
-    
-                  display: inline;
-                  height: 20vh;
-    
-              }
-
-                           @media only screen and (min-width: 481px) {
-                               #classes {
-                                   width: 65%;
-            
-                                   margin: 0, auto;
-                                   padding: 0;
-                               }
-            
-                               #menu {
-            
-                                   display: inline;
-                                   height: 20vh;
-            
-                               }
-
-
-
-
-
-
