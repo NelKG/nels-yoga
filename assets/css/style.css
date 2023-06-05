@@ -39,8 +39,8 @@ h2 {
     letter-spacing: 4px;
     text-align: center;
     background-color: #f5f5dc;
-   
-    
+
+
 
 
 
@@ -65,7 +65,7 @@ h2 {
     text-decoration: underline;
     color: inherit;
     text-align: center;
-    
+
 
 }
 
@@ -90,7 +90,7 @@ h2 {
 #cover-text,
 #cover-text h2 {
     color: #2b2d2f;
-    
+
 
 }
 
@@ -99,7 +99,8 @@ h2 {
     color: #2b2d2f;
 
 }
-h1{ 
+
+h1 {
     background-color: beige;
 }
 
@@ -175,10 +176,7 @@ h1{
     display: flex;
     justify-content: center;
     padding: 1rem;
-    
-    
-
-
+    background-color: #f5f5dc;
 
 }
 
@@ -186,8 +184,8 @@ h1{
     display: flex;
     justify-content: center;
     padding: 1rem;
-    
-    
+    background-image: url('../images/yoga-ladies.jpg') center;
+
 
 }
 
@@ -196,8 +194,8 @@ h2 {
     justify-content: center;
     text-align: center;
     padding: 1rem;
-    
-    
+
+
 
 }
 
@@ -208,9 +206,12 @@ h3 {
     display: inline;
     justify-content: space-around;
     justify-content: space-between;
-    color: rgba(221, 208, 200, .6);
-    
-    
+    color: #2b2d2f;
+    background-color: #f5f5dc;
+
+
+
+
 }
 
 
@@ -219,7 +220,7 @@ h3 {
     align-items: flex-end;
     height: 150px;
 
-    
+
 
 }
 
@@ -270,6 +271,7 @@ h3 {
     height: 400px;
     width: 100%;
     background: url('../images/yoga-image.jpg') no-repeat center center;
+
 }
 
 #yoga-outer {
@@ -282,7 +284,7 @@ h3 {
 #yoga-class {
     height: 600px;
     width: 50%;
-    background: url('../images/yoga-class.webp') no-repeat;
+    background: url('../images/yoga-image.jpg') no-repeat center center;
 
 }
 
@@ -296,7 +298,7 @@ footer {
 
 }
 
-.social-media > li {
+.social-media>li {
 
     display: inline;
 
@@ -316,6 +318,7 @@ footer {
     padding: 20px 0;
     display: flex;
     background: url('../images/de-stress.avif') no-repeat center center;
+
     justify-content: center;
 
 
