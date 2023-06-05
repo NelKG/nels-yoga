@@ -176,7 +176,9 @@ h1 {
     display: flex;
     justify-content: center;
     padding: 1rem;
-    background-color: #f5f5dc;
+    background-color: beige;
+
+    height: 20vh;
 
 }
 
@@ -208,9 +210,6 @@ h3 {
     justify-content: space-between;
     color: #2b2d2f;
     background-color: #f5f5dc;
-
-
-
 
 }
 
