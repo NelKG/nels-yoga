@@ -186,10 +186,8 @@ h1 {
     display: flex;
     justify-content: center;
     padding: 1rem;
-    background-image: url('../images/yoga-ladies.jpg') center;
-
-
 }
+
 
 h2 {
     display: flex;
@@ -197,9 +195,8 @@ h2 {
     text-align: center;
     padding: 1rem;
 
-
-
 }
+
 
 h3 {
     display: flex;
@@ -362,7 +359,7 @@ h2 {
     #classes {
         font-size: 18px;
 
-        margin: 0, auto;
+        margin: 0 auto;
         padding: 0;
     }
 
@@ -385,7 +382,7 @@ h2 {
     #classes {
         font-size: 18px;
 
-        margin: 0, auto;
+        margin: 0 auto;
         padding: 0;
     }
 
@@ -407,11 +404,11 @@ h2 {
     font-size: 14px;
 }
 
-@media only screen and (max-width: 768x) {
+@media only screen and (max-width: 760x) {
     #classes {
         font-size: 18px;
 
-        margin: 0, auto;
+        margin: 0 auto;
         padding: 0;
     }
 
@@ -425,7 +422,7 @@ h2 {
     #classes {
         font-size: 18px;
 
-        margin: 0, auto;
+        margin: 0 auto;
         padding: 0;
     }
 
@@ -439,7 +436,7 @@ h2 {
     #classes {
         font-size: 18px;
 
-        margin: 0, auto;
+        margin: 0 auto;
         padding: 0;
     }
 
@@ -453,7 +450,7 @@ h2 {
     #classes {
         font-size: 18px;
 
-        margin: 0, auto;
+        margin: 0 auto;
         padding: 0;
     }
 

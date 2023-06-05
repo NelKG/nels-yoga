@@ -34,9 +34,26 @@ To log into the Heroku toolbelt CLI:
 
 You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
 
----
+User Experience (UX)
+Nels Yga is a website that is website that allows for her clients to look at the times of classes available 
+the type of classes and book a class at a time that is available and that suits a client 
+Key information on the site 
+Nels philisophy
+How to contact her 
+the type of classes she provides 
+the dates and times of classes 
+how to book for a class 
+social media links to facebook, youtube and Instagram
+the location of the classes
 
-Happy coding!
+Client Goals 
+to be able to view the site on a range of device sizes
+to make it easy for potential and existing clients to book classes
+to find my Instagram page 
 
+Return visitor goals
+find the up to date information on classes
+navigate the site easily to find information
 
-
+Design 
+The color scheme 
