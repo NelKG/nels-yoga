@@ -180,7 +180,8 @@ image.png
 are some of the screen shots from the wireframe used to create this project.
 
 ## Features
-
+The website pages are made up of a clear message to see wat type of yoga is 
+practsed and what type of classes are offered. 
 
 
 This section can be used to explain what pages your site is made up of.
