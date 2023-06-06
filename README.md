@@ -111,7 +111,7 @@ find the up to date information on classes
 navigate the site easily to find information
 ## Design
 
-👩🏻‍💻 View an example of a completed design section [here]
+View an example of a completed design section [here]
 
 ### Colour Scheme
 
@@ -148,8 +148,7 @@ I used the fonts Oswald and Roboto in this project. I used the font as it was
  The two I used are very clear and neat.
 
 For the icons in this project. I obtained them from Fontawesome V5. 
-I was influenced by the Love Running Project. 
-
+I was influenced by the Love Running Project
 
 https://fontawesome.com/ was where the icons were taken from for the footer.
 
@@ -172,7 +171,7 @@ booking form.
 Add the images or links for your wireframes here.
 
 There are lots of different options to create your wireframes - Code Institute students can access [Balsamiq](https://balsamiq.com/) as part of the course.
-for this project I used baslsaiq. 
+for this project I used balsamiq. 
 Nels Yoga.bmpr
 image.png
 image.png
@@ -207,7 +206,7 @@ What features would you like to implement in the future on your site? Would you 
 
 ### Languages Used
 
-As this is my first HTML & CSS are the only languages used throughout this project.
+As this is my first project HTML & CSS are the only languages  I used throughout this project.
 
 ### Frameworks, Libraries & Programs Used
 
@@ -238,9 +237,16 @@ The local development section gives instructions on how someone else could make 
 bonco.ie
 
 <https://www.andinthisspace.com/contact>
+are some websites I looked at for ieas 
 
 
 ### Code Used
+https://www.youtube.com/watch?v=ShpH_1EPox0
+The code used in this project was taken from Code Institute lerning material and
+The Love Running project
+The code used for the booking form on the booking page ws taken from brilex007 on youtube
+https://www.youtube.com/watch?v=ShpH_1EPox0 is the website. 
+
 
 
 
