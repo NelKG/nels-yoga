@@ -243,7 +243,7 @@ Click the fork button in thetop right corner
 
 
 #### How to Clone
-To clone nel-yoga website
+To clone nels-yoga website
 log in to Github
 Go to the repository for nels-yoga
 click on the code button, select whether you would like to lone with HTTPS, SSH or
@@ -262,12 +262,13 @@ adding more images and ensuring the web pages are relevant
 The W3C Validator was used to valide the HTML on all pages for this webite 
 <https://validator.w3.org/nu/#textarea
 
-HTML W3C.png
+HTML W3C.pngd
+Debugging all the syntax errors and unclosed elements 
 
 
 
 
-
+Lighthouse 
 
 ## Credits
 
@@ -314,6 +315,7 @@ The quote on the home pae
   
 ###  Acknowledgments
 
-I would to thanks my mentor for his assistance, and the course cordinatro .. i 
-also referenced the github resource of xx 
+I would to thanks my mentor for his assistance  His sessions were very helpful and 
+practical. 
+ I also referenced the github resource of <https://github.com/kera-cudmore/Bully-Book-Club/blob/main/README.md#W3C-Validator>
 
