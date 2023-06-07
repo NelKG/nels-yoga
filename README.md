@@ -251,6 +251,20 @@ GithuB CLI and copy the link shown
 
 
 ## Testing
+The testing of this project was ongoing throughout 
+I used Chrome Developer tools as I went along 
+my mentor gave some great feedback and advice during the mentor sessions 
+
+adding a break of color on some of the pages to break up the text
+ensuring there were hover links on the navigation menu 
+chooing images that were not very pixalated 
+adding more images and ensuring the web pages are relevant
+The W3C Validator was used to valide the HTML on all pages for this webite 
+<https://validator.w3.org/nu/#textarea
+
+HTML W3C.png
+
+
 
 
 
