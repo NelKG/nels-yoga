@@ -210,13 +210,25 @@ What features would you like to implement in the future on your site? Would you 
 As this is my first project HTML & CSS are the only languages  I used throughout this project.
 
 ### Frameworks, Libraries & Programs Used
-
-
-
-## Deployment & Local Development
+Languages Used
+HTML and CSS were used to build his website
+Frameworks
+Balsamiq was used to create wireforms
+Git for version control
+Github to save and store files for the website
+Google fonts to use the font code used on the website
+Font Awesome fro the icons used on the website
+Google Dev tools to assist with the reponsiveness
 
 
 ### Deployment
+
+Log in to Github.
+Find the repository for this project, nels-yoga.
+Click on the Settings link.
+Click on the Pages link in the left hand side navigation bar.
+In the Source section, choose main from the drop down select branch menu. Select Root from the drop down select folder menu.
+Click Save. Your live Github Pages site is now deployed at the URL show
 
  I saved the code after it was added to Codeanywhere . I committed the changes and then pushed the final code to Github. I
 I saved the settings on my github page as a main root source and then I deployed the pages to github.
@@ -225,12 +237,22 @@ I saved the settings on my github page as a main root source and then I deployed
 The local development section gives instructions on how someone else could make a copy of your project to play with on their local machine. This section will get more complex in the later projects, and can be a great reference to yourself if you forget how to do this.
 
 #### How to Fork
+To fork the nels-yoga repository
+log in to GithubGo to the repository for this project NelKG/nels-yoga
+Click the fork button in thetop right corner 
 
 
 #### How to Clone
+To clone nel-yoga website
+log in to Github
+Go to the repository for nels-yoga
+click on the code button, select whether you would like to lone with HTTPS, SSH or
+GithuB CLI and copy the link shown
 
 
 ## Testing
+
+
 
 
 ## Credits
@@ -238,7 +260,10 @@ The local development section gives instructions on how someone else could make 
 bonco.ie
 
 <https://www.andinthisspace.com/contact>
-are some websites I looked at for ieas 
+are some websites I looked at for ideas
+
+https://github.com/kera-cudmore/Bully-Book-Club/blob/main/README.md
+This was the github source I referred to and accessed to complete my ReadMe.md
 
 
 ### Code Used
