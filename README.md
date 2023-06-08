@@ -12,7 +12,6 @@
   - [Wireframes](#wireframes)
   - [Wireframes](#wireframes-1)
   - [Wireframes](#wireframes-2)
-  - [Wireframes](#wireframes-3)
 - [Features](#features)
   - [General features on each page](#general-features-on-each-page)
   - [Future Implementations](#future-implementations)
@@ -130,38 +129,39 @@ I choose images which are symbolic of nels-yoga and the ethos of the studio.
 
 ### Wireframes
 
-Wireframes were created for mobile, tablet and desktop using Balsamiq.
+Wireframes were created for and desktop using Balsamiq.
 
 <details>
 <summary>Home Page Wireframe</summary>
 <br>
 
-![Home page] (documentation/booking-page.jpg)
-![Classes page] (.
-![Home page] 
-
+[Home](documentation/home-page.png)
 </details>
 
-### Wireframes
-
-Wireframes were created for mobile, tablet and desktop using Balsamiq.
 
 <details>
-<summary>Index Page Wireframe</summary>
+<summary>Book Page Wireframe</summary>
 <br>
 
 ![Book](documentation/booking-page.jpg)
 
 </details>
-### Wireframes
 
-Wireframes were created for mobile, tablet and desktop using Balsamiq.
 
 <details>
-<summary>Index Page Wireframe</summary>
+
+<summary>Classes Page Wireframe</summary>
 <br>
 
-![Index page](readme/wireframes/readme_wireframes_home_screen.png)
+[Classes page 1]( documentation/classes-page1.jpeg)
+
+</details>
+
+<summary>Classes Page Wireframe</summary>
+<br>
+
+[Classes page 2] (documentation/)
+
 
 </details>
 ### Wireframes
@@ -169,10 +169,22 @@ Wireframes were created for mobile, tablet and desktop using Balsamiq.
 Wireframes were created for mobile, tablet and desktop using Balsamiq.
 
 <details>
-<summary>Classes Page Wireframe</summary>
+<summary>Contact Page Wireframe</summary>
 <br>
 
-![Classes page](documentation/classes-page1.jpeg)
+![Contact page](docmention/   readme/wireframes/readme_wireframes_home_screen.png)
+
+</details>
+
+### Wireframes
+
+Wireframes were created for mobile, tablet and desktop using Balsamiq.
+
+<details>
+<summary>Contact Page Wireframe</summary>
+<br>
+
+![Contact page](documentation/contact-page.png)
 
 </details>
 
