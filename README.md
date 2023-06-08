@@ -32,7 +32,7 @@
 
 ## User Experience (UX)
 
-Add url completed link here [View my Github Profile Here]()
+Add url completed link here [View my Github Profile Here](https://nelkg.github.io/nels-yoga/)
 
 ### User Stories
 
