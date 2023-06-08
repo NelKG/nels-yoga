@@ -168,7 +168,7 @@ h1 {
 
     padding-top: 40px;
     padding-right: 10px;
-    
+
 
     right: 30px;
     left: 150px;
@@ -211,6 +211,7 @@ h3 {
     justify-content: space-between;
     color: #2b2d2f;
     background-color: #f5f5dc;
+    padding: 1rem;
 
 }
 
@@ -243,38 +244,30 @@ h3 {
 }
 
 #contact-text {
-    font-size: 30%;
-    font-family: Roboto, sans-serif;
-    text-transform: uppercase;
     letter-spacing: 4px;
-
-    width: 500px;
-    height: 100px;
-
-    padding-top: 40px;
-
-
-
-
-    right: 30px;
-    left: 150px;
-
-    background-color: rgba(221, 208, 200, .6);
-    bottom: 200px;
-    position: absolute;
+    position: relative;
+    left: 0;
+    padding: 3rem;
+    padding-top: 150px;
+    
 
 
 
 }
+
 h3 {
 
-    font:100 Oswald sans-serif;
+    font: 100 Oswald sans-serif;
+    
+    
+    
 }
 
 #yoga-image {
     height: 400px;
     width: 100%;
     background: url('../images/yoga-image.jpg') no-repeat center center;
+    position: absolute;
 
 }
 

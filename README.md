@@ -22,6 +22,7 @@
     - [How to Fork](#how-to-fork)
     - [How to Clone](#how-to-clone)
 - [Testing](#testing)
+  - [W3C Code Validator](#w3c-code-validator)
 - [Lighthouse](#lighthouse)
   - [Credits](#credits)
   - [Code Used](#code-used)
@@ -94,6 +95,7 @@ lighter and darker as needed
 rgb 245.245,20 Beige
 
 rgba (221, 208, 200, .6)  lighter contrast
+#808080 gray whic complements the being color on the home page
  
 [here is the link to the website used for colors]
 (https://www.w3schools.com/w3css/w3css_colors.asp)
@@ -145,13 +147,7 @@ Wireframes were created for desktop. tablet and mobile using Balsamiq.
 ![Home](documentation/home-page.png)
 </details>
 
-<details>
-<summary>Book Page Wireframe</summary>
-<br>
 
-![Book](documentation/booking-page.jpg)
-
-</details>
 
 
 <details>
@@ -168,6 +164,13 @@ Wireframes were created for desktop. tablet and mobile using Balsamiq.
 <br>
 
 ![Contact page](documentation/contact-page.png)
+
+</details>
+<details>
+<summary>Book Page Wireframe</summary>
+<br>
+
+![Book](documentation/booking-page.jpg)
 
 </details>
 
@@ -189,8 +192,13 @@ put th nav bar and footer in here
 
 
 ### Future Implementations
+For future implentations I would make the website more interactive. 
+I would offer a mix of level of classes.
+I would adda preference tab for what time and days are preferred by the majority of 
+clients. I would add a gallery display all the poses for each Yoga class offered.
+I would add recorded classes to the page.
 
-What features would you like to implement in the future on your site? Would you like to add more pages, or create login functionality? Add these plans here.
+
 
 ### Accessibility
 
@@ -260,6 +268,8 @@ The W3C Validator was used to valide the HTML on all pages for this webite
 HTML W3C.pngd
 Debugging all the syntax errors and unclosed elements 
 
+### W3C Code Validator
+
 
 
 
@@ -311,6 +321,6 @@ The quote on the home pae
 ###  Acknowledgments
 
 I would to thanks my mentor for his assistance  His sessions were very helpful and 
-practical. 
+practical.  He gave me great feedback and guidance throughout each session.
  I also referenced the github resource of <https://github.com/kera-cudmore/Bully-Book-Club/blob/main/README.md#W3C-Validator>
 
