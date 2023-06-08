@@ -10,6 +10,7 @@
   - [Typography](#typography)
   - [Imagery](#imagery)
   - [Wireframes](#wireframes)
+  - [W3C Code Validator](#w3c-code-validator)
 - [Features](#features)
   - [General features on each page](#general-features-on-each-page)
   - [Future Implementations](#future-implementations)
@@ -22,7 +23,6 @@
     - [How to Fork](#how-to-fork)
     - [How to Clone](#how-to-clone)
 - [Testing](#testing)
-  - [W3C Code Validator](#w3c-code-validator)
 - [Lighthouse](#lighthouse)
   - [Credits](#credits)
   - [Code Used](#code-used)
@@ -128,11 +128,11 @@ was where the icons were taken from for the footer.
 The images used in this project are taken from websites  Unsplash and Pexel. 
 I was searching for clear and clean images with a high resolution. 
 
-
-this a website source which I used to assist me code the hero-image in this project.
+This a website source which I used to assist me code the hero-image in this project.
 The hero image is from [link for hero image][Link to website] (https://nicolaslule.com/responsive-full-width-hero-image-using-flex/)  
 [Link for image on booking page](<https://www.istockphoto.com/search/search-by-asset?searchbyasset=true&assettype=image&alloweduse=availableforalluses&assetid=1322925863&page=2>
 https://unsplash.com/images/sports/yoga )
+
 I choose images which are symbolic of nels-yoga and the ethos of the studio.
 
 
@@ -146,8 +146,6 @@ Wireframes were created for desktop. tablet and mobile using Balsamiq.
 
 ![Home](documentation/home-page.png)
 </details>
-
-
 
 
 <details>
@@ -173,6 +171,8 @@ Wireframes were created for desktop. tablet and mobile using Balsamiq.
 ![Book](documentation/booking-page.jpg)
 
 </details>
+
+### W3C Code Validator
 
 W3C Code validator - CSS 
 <p>
@@ -220,7 +220,9 @@ Home Page, Classes Page, Contact Page and Booking Page.
 
 If there is a feature that appears on all pages of your site, include it here. Examples of what to include would the the navigation, a footer and a favicon.
 
-put th nav bar and footer in here 
+The general features on each page are the navigation bar and the footer and the logo for the 
+web page "Nels Yoga". 
+The footer is the same with the social media links on each page at the bottom.
 
 
 
@@ -250,11 +252,11 @@ As this is my first project HTML & CSS are the only languages  I used throughout
 2. Frameworks
 
 3. Balsamiq was used to create wireforms
-Git for version control
-Github to save and store files for the website
-Google fonts to use the font code used on the website
-Font Awesome fro the icons used on the website
-Google Dev tools to assist with the reponsiveness
+4. Git for version control
+5. Github to save and store files for the website
+6. Google fonts to use the font code used on the website
+7. Font Awesome fro the icons used on the website
+8. Google Dev tools to assist with the reponsiveness
 
 
 ### Deployment
@@ -266,8 +268,7 @@ Google Dev tools to assist with the reponsiveness
 5. In the Source section, choose main from the drop down select branch menu. Select Root from the drop down select folder menu.
 5. Click Save. Your live Github Pages site is now deployed at the URL show
 
- I saved the code after it was added to Codeanywhere . I committed the changes and then pushed the final code to Github. I
-I saved the settings on my github page as a main root source and then I deployed the pages to github.
+ I saved the code after it was added to Codeanywhere . I committed the changes and then pushed the final code to Github. I saved the settings on my github page as a main root source and then I deployed the pages to github.
 ### Local Development
 
 The local development section gives instructions on how someone else could make a copy of your project to play with on their local machine. This section will get more complex in the later projects, and can be a great reference to yourself if you forget how to do this.
@@ -296,12 +297,17 @@ ensuring there were hover links on the navigation menu
 chooing images that were not very pixalated 
 adding more images and ensuring the web pages are relevant
 The W3C Validator was used to valide the HTML on all pages for this webite 
-<https://validator.w3.org/nu/#textarea
+ [link to code validator website](https://validator.w3.org/)
+ 
+[link to css code validator website] (https://jigsaw.w3.org/css-validator/)
 
-HTML W3C.pngd
+[link to website amiresponsive](https://ui.dev/amiresponsive?url=https://nelkg.github.io/nels-yoga/)
+
+
+
 Debugging all the syntax errors and unclosed elements 
 
-### W3C Code Validator
+
 
 
 
