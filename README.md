@@ -33,7 +33,7 @@
 
 ## User Experience (UX)
 
-Add url completed linnk here [View my Github Profile Her]()
+Add url completed link here [View my Github Profile Here]()
 
 ### User Stories
 
@@ -80,14 +80,23 @@ in this project. I was influenced by the love Running project.
 The following colors were used a mix of hex colors and rgba to 
 make the color and contrast
 lighter and darker as needed 
+
 #323232 a dark grey
+
 #DDDOC8 a light shade of orange
+
 #252525 dark dark shade of grey
+
 #f5f5dc a shade of yellow
+
 #2b2d2f dark shade of green
+
 #fff a light shade of blue
+
 rgb 245.245,20 Beige
-rgba (221, 208, 200, .6)  lighter contrast 
+
+rgba (221, 208, 200, .6)  lighter contrast
+ 
 [here is the link to the website used for colors]
 (https://www.w3schools.com/w3css/w3css_colors.asp)
 (https://encycolorpedia.com/ffffff)
@@ -129,13 +138,13 @@ I choose images which are symbolic of nels-yoga and the ethos of the studio.
 
 ### Wireframes
 
-Wireframes were created for and desktop using Balsamiq.
+Wireframes were created for desktop. tablet and mobile using Balsamiq.
 
 <details>
 <summary>Home Page Wireframe</summary>
 <br>
 
-[Home](documentation/home-page.png)
+![Home](documentation/home-page.png)
 </details>
 
 
@@ -153,14 +162,15 @@ Wireframes were created for and desktop using Balsamiq.
 <summary>Classes Page Wireframe</summary>
 <br>
 
-[Classes page 1]( documentation/classes-page1.jpeg)
+![Classes page 1]( documentation/classes-page1.jpeg)
 
 </details>
+<details>
 
 <summary>Classes Page Wireframe</summary>
 <br>
 
-[Classes page 2] (documentation/)
+![Classes page]
 
 
 </details>
@@ -172,7 +182,7 @@ Wireframes were created for mobile, tablet and desktop using Balsamiq.
 <summary>Contact Page Wireframe</summary>
 <br>
 
-![Contact page](docmention/   readme/wireframes/readme_wireframes_home_screen.png)
+![Contact Page](documentation/contact-page.png)
 
 </details>
 
