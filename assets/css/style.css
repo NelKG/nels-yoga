@@ -198,6 +198,9 @@ h2 {
     justify-content: center;
     text-align: center;
     padding: 1rem;
+    justify-content: space-around;
+    justify-content: space-between;
+    height: 25px;
 
 }
 
@@ -208,12 +211,13 @@ h3 {
     height: 25px;
     display: inline;
     justify-content: space-around;
-    justify-content: space-between;
+    justify-content: space-around;
     color: #2b2d2f;
-    background-color: #f5f5dc;
+    background: #f5f5dc;
     padding: 1rem;
-
+    
 }
+
 
 
 #footer {

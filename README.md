@@ -15,6 +15,7 @@
   - [General features on each page](#general-features-on-each-page)
   - [Future Implementations](#future-implementations)
   - [Accessibility](#accessibility)
+- [Lighthouse](#lighthouse)
 - [Technologies Used](#technologies-used)
   - [Languages Used](#languages-used)
   - [Frameworks, Libraries \& Programs Used](#frameworks-libraries--programs-used)
@@ -23,7 +24,6 @@
     - [How to Fork](#how-to-fork)
     - [How to Clone](#how-to-clone)
 - [Testing](#testing)
-- [Lighthouse](#lighthouse)
   - [Credits](#credits)
   - [Code Used](#code-used)
   - [Content](#content)
@@ -236,6 +236,7 @@ I would add recorded classes to the page.
 
 
 ### Accessibility
+## Lighthouse 
 
 
 
@@ -248,14 +249,12 @@ As this is my first project HTML & CSS are the only languages  I used throughout
 
 ### Frameworks, Libraries & Programs Used
 1. Languages Used - HTML and CSS were used to build his website
-
 2. Frameworks
-
-3. Balsamiq was used to create wireforms
-4. Git for version control
-5. Github to save and store files for the website
-6. Google fonts to use the font code used on the website
-7. Font Awesome fro the icons used on the website
+3. Balsamiq was used to create wireframes 
+4. Git for version control 
+5. Github to save and store files for the website7. 
+6. Google fonts to use the font code used on the website9. 
+7. Font Awesome fro the icons used on the website11. 
 8. Google Dev tools to assist with the reponsiveness
 
 
@@ -304,15 +303,14 @@ The W3C Validator was used to valide the HTML on all pages for this webite
 [link to website amiresponsive](https://ui.dev/amiresponsive?url=https://nelkg.github.io/nels-yoga/)
 
 
-
+###Debugging 
 Debugging all the syntax errors and unclosed elements 
+changing the positioning of the containers 
+ensuring all headings are correctly chosen
+ensuring that the pages are responsive
+its an ongong process
 
 
-
-
-
-
-## Lighthouse 
 
 ### Credits
 
