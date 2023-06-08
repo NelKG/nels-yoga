@@ -201,13 +201,13 @@ W3C Code validator - CSS
 <summary> booking code validator</summary>
 <br>
 
-![booking](documentation/booking-page.jpg)
+![booking](documentation/w3c-bookingpage.png)
 
 </details>
 <summary> classes code validator</summary>
 <br>
 
-![classes](documentation/w3c-classespage.png
+![classes](documentation/w3c-classespage.png)
 
 </details>
 
