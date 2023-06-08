@@ -135,7 +135,7 @@ I choose to use for this project.
 
 
 Nels Yoga.bmpr
-![inserting an Image Link Example] url)
+![inserting an Image Link Example](documentation/booking-page.png)
 image.png
 image.png
 image.png
@@ -143,8 +143,8 @@ image.png
 are some of the screen shots from the wireframe used to create this project.
 
 ## Features
-The website pages are made up of a clear message to see wat type of yoga is 
-practsed and what type of classes are offered. 
+The website pages are made up of a clear message to see the type of yoga that is  
+practised and what type of classes are offered. 
 
 
 This section can be used to explain what pages your site is made up of.
@@ -173,10 +173,11 @@ What features would you like to implement in the future on your site? Would you 
 As this is my first project HTML & CSS are the only languages  I used throughout this project.
 
 ### Frameworks, Libraries & Programs Used
-Languages Used
-HTML and CSS were used to build his website
-Frameworks
-Balsamiq was used to create wireforms
+1. Languages Used - HTML and CSS were used to build his website
+
+2. Frameworks
+
+3. Balsamiq was used to create wireforms
 Git for version control
 Github to save and store files for the website
 Google fonts to use the font code used on the website
@@ -186,12 +187,12 @@ Google Dev tools to assist with the reponsiveness
 
 ### Deployment
 
-Log in to Github.
-Find the repository for this project, nels-yoga.
-Click on the Settings link.
-Click on the Pages link in the left hand side navigation bar.
-In the Source section, choose main from the drop down select branch menu. Select Root from the drop down select folder menu.
-Click Save. Your live Github Pages site is now deployed at the URL show
+1. Log in to Github.
+2. Find the repository for this project, nels-yoga.
+3. Click on the Settings link.
+4. Click on the Pages link in the left hand side navigation bar.
+5. In the Source section, choose main from the drop down select branch menu. Select Root from the drop down select folder menu.
+5. Click Save. Your live Github Pages site is now deployed at the URL show
 
  I saved the code after it was added to Codeanywhere . I committed the changes and then pushed the final code to Github. I
 I saved the settings on my github page as a main root source and then I deployed the pages to github.
