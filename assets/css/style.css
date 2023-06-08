@@ -102,6 +102,9 @@ h2 {
 
 h1 {
     background-color: beige;
+    padding: 2rem;
+    color: #808080;
+
 }
 
 #hero-image {
@@ -165,6 +168,7 @@ h1 {
 
     padding-top: 40px;
     padding-right: 10px;
+    
 
     right: 30px;
     left: 150px;

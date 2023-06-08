@@ -10,8 +10,6 @@
   - [Typography](#typography)
   - [Imagery](#imagery)
   - [Wireframes](#wireframes)
-  - [Wireframes](#wireframes-1)
-  - [Wireframes](#wireframes-2)
 - [Features](#features)
   - [General features on each page](#general-features-on-each-page)
   - [Future Implementations](#future-implementations)
@@ -147,7 +145,6 @@ Wireframes were created for desktop. tablet and mobile using Balsamiq.
 ![Home](documentation/home-page.png)
 </details>
 
-
 <details>
 <summary>Book Page Wireframe</summary>
 <br>
@@ -165,30 +162,6 @@ Wireframes were created for desktop. tablet and mobile using Balsamiq.
 ![Classes page 1]( documentation/classes-page1.jpeg)
 
 </details>
-<details>
-
-<summary>Classes Page Wireframe</summary>
-<br>
-
-![Classes page]
-
-
-</details>
-### Wireframes
-
-Wireframes were created for mobile, tablet and desktop using Balsamiq.
-
-<details>
-<summary>Contact Page Wireframe</summary>
-<br>
-
-![Contact Page](documentation/contact-page.png)
-
-</details>
-
-### Wireframes
-
-Wireframes were created for mobile, tablet and desktop using Balsamiq.
 
 <details>
 <summary>Contact Page Wireframe</summary>
@@ -198,14 +171,14 @@ Wireframes were created for mobile, tablet and desktop using Balsamiq.
 
 </details>
 
-are some of the screen shots from the wireframe used to create this project.
-
 ## Features
 The website pages are made up of a clear message to see the type of yoga that is  
 practised and what type of classes are offered. 
 
 
-This section can be used to explain what pages your site is made up of.
+This section is used to explain he pages on the website. 
+There are four pages. 
+Home Page, Classes Page, Contact Page and Booking Page. 
 
 ### General features on each page
 
