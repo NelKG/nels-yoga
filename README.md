@@ -10,6 +10,9 @@
   - [Typography](#typography)
   - [Imagery](#imagery)
   - [Wireframes](#wireframes)
+  - [Wireframes](#wireframes-1)
+  - [Wireframes](#wireframes-2)
+  - [Wireframes](#wireframes-3)
 - [Features](#features)
   - [General features on each page](#general-features-on-each-page)
   - [Future Implementations](#future-implementations)
@@ -127,19 +130,52 @@ I choose images which are symbolic of nels-yoga and the ethos of the studio.
 
 ### Wireframes
 
-Add the images or links for your wireframes here.
+Wireframes were created for mobile, tablet and desktop using Balsamiq.
 
-There are lots of different options to create your wireframes 
--[Balsamiq](https://balsamiq.com/) as part of the course was the wireframe which 
-I choose to use for this project.
+<details>
+<summary>Home Page Wireframe</summary>
+<br>
 
+![Home page] (documentation/booking-page.jpg)
+![Classes page] (.
+![Home page] 
 
-Nels Yoga.bmpr
-![inserting an Image Link Example](documentation/booking-page.png)
-image.png
-image.png
-image.png
-image.png
+</details>
+
+### Wireframes
+
+Wireframes were created for mobile, tablet and desktop using Balsamiq.
+
+<details>
+<summary>Index Page Wireframe</summary>
+<br>
+
+![Book](documentation/booking-page.jpg)
+
+</details>
+### Wireframes
+
+Wireframes were created for mobile, tablet and desktop using Balsamiq.
+
+<details>
+<summary>Index Page Wireframe</summary>
+<br>
+
+![Index page](readme/wireframes/readme_wireframes_home_screen.png)
+
+</details>
+### Wireframes
+
+Wireframes were created for mobile, tablet and desktop using Balsamiq.
+
+<details>
+<summary>Classes Page Wireframe</summary>
+<br>
+
+![Classes page](documentation/classes-page1.jpeg)
+
+</details>
+
 are some of the screen shots from the wireframe used to create this project.
 
 ## Features
