@@ -204,6 +204,15 @@ W3C Code validator - CSS
 ![booking](documentation/booking-page.jpg)
 
 </details>
+<summary> classes code validator</summary>
+<br>
+
+![classes](documentation/w3c-classespage.png
+
+</details>
+
+The code validator for the classes pages shows 3 errors which I was unable to 
+debugg at this stage. 
 
 
 
@@ -237,6 +246,16 @@ I would add recorded classes to the page.
 
 ### Accessibility
 ## Lighthouse 
+details>
+<summary>lighthouse-inspection</summary>
+<br>
+
+![lighthouse-inspettion](documentation/lighthouse-inspection%20(1).pdf)
+
+I have added a pdf document which shows all the lighthouse inspections for the desktop
+on every page. I've included one mobile inspection for the booking page 
+
+</details>
 
 
 
