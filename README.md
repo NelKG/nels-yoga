@@ -174,6 +174,39 @@ Wireframes were created for desktop. tablet and mobile using Balsamiq.
 
 </details>
 
+W3C Code validator - CSS 
+<p>
+    <a href="http://jigsaw.w3.org/css-validator/check/referer">
+        <img style="border:0;width:88px;height:31px"
+            src="http://jigsaw.w3.org/css-validator/images/vcss"
+            alt="Valid CSS!" />
+    </a>
+</p>
+
+<details>
+<summary>html code validator</summary>
+<br>
+
+![html](documentation/html-w3c.png)
+
+</details>
+<details>
+<summary>contact code validator</summary>
+<br>
+
+![contact](documentation/w3c-contactpage.png)
+
+</details>
+<details>
+<summary> booking code validator</summary>
+<br>
+
+![booking](documentation/booking-page.jpg)
+
+</details>
+
+
+
 ## Features
 The website pages are made up of a clear message to see the type of yoga that is  
 practised and what type of classes are offered. 
