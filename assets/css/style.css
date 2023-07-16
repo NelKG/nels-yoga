@@ -214,8 +214,8 @@ h3 {
     justify-content: space-around;
     color: #2b2d2f;
     background: #f5f5dc;
-    
-    
+
+
 }
 
 
@@ -253,13 +253,13 @@ h3 {
     left: 0;
     padding: 3rem;
     padding-top: 150px;
-    
+
 
 
 
 }
-   
-    
+
+
 
 #yoga-image {
     height: 400px;
@@ -372,6 +372,20 @@ h2 {
     font-size: 18px;
 }
 
+.client-feedback {
+
+    font-size: 20px;
+    display: flex;
+    justify-content: flex-start;
+
+}
+
+.feedback {
+    font-size: 20px;
+    display: flex;
+    justify-content: flex-end;
+
+}
 
 
 
