@@ -374,18 +374,31 @@ h2 {
 
 .client-feedback {
 
-    font-size: 20px;
-    display: flex;
-    justify-content: flex-start;
+        width: 200px;
+            height: 200px;
+        
+            border-radius: 50%;
+            position: absolute;
+            top: 70%;
+            left: 25%;
+            transform: translate(-50%, -50%);
+    
 
 }
 
 .feedback {
-    font-size: 20px;
-    display: flex;
-    justify-content: flex-end;
+    width: 200px;
+        height: 200px;
+    
+        border-radius: 50%;
+        position: absolute;
+        top: 50%;
+        left: 25%;
+        transform: translate(-50%, -50%);
+        
 
 }
+
 
 
 
