@@ -382,6 +382,7 @@ h2 {
             top: 70%;
             left: 25%;
             transform: translate(-50%, -50%);
+            font-size: 20px;
     
 
 }
@@ -395,7 +396,20 @@ h2 {
         top: 50%;
         left: 25%;
         transform: translate(-50%, -50%);
+        font-size: 20px;
         
+
+}
+.feedback-more{
+    width: 200px;
+        height: 200px;
+    
+        border-radius: 50%;
+        position: absolute;
+        top: 50%;
+        right: 10%;
+        transform: translate(-50%, -50%);
+        font-size: 20px;
 
 }
 
