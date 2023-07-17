@@ -211,55 +211,63 @@ W3C Code validator - CSS
 
 </details>
 
- 
-
-
-
 ## Features
-The website pages are made up of a clear message to see the type of yoga that is  
-practised and what type of classes are offered. 
-
-
-This section is used to explain he pages on the website. 
-There are four pages. 
+The website containes four pages. There is  a clear message to see on each page. 
+There are two types of yoga offered and taught at this yoga school. The website describes
+the type of yoga that is practised and what type of classes are offered. 
+This section is used to explain the pages on the website. 
+ 
 <details>
 <summary> Home Page</summary>   
-![home](documentation/)
+![homepage](documentation/homepage.PNG)
 <br>
 </details>
+
 <details>
 <summary> Classes Page</summary>
+![classespage](documentation/classespage.PNG)
+<br>
+</details>
 
-![classes page]
+<details>
+<summary>Contact Page</summary>
+![contact page](documentation/contact%20page.PNG)
+<br>
+</details>
 
-![contact page] 
-
-![booking Page] 
-
-![social media links] 
+<details>
+<summary> Booking Page</summary>
+![bookingpage](documentation/bookingpage.PNG)
+<br>
+</details>
 
 ### General features on each page
 
 If there is a feature that appears on all pages of your site, include it here. Examples of what to include would the the navigation, a footer and a favicon.
 
 The general features on each page are the navigation bar and the footer and the logo for the 
-web page "Nels Yoga". 
+web page "Nell's Yoga". 
 The footer is the same with the social media links on each page at the bottom.
 
+Here is a screenshot of the footer illustrating the social media links 
+<details>
+<summary>social media links</summary>
+<br>
+![socialmedialinks.PNG](documentation/socialmedialinks.PNG) 
+</details>
 
 
 ### Future Implementations
 For future implentations I would make the website more interactive. 
 I would offer a mix of level of classes.
-I would adda preference tab for what time and days are preferred by the majority of 
-clients. I would add a gallery display all the poses for each Yoga class offered.
+I would add a preference tab for what time and days are preferred by the majority of 
+clients. I would add a gallery display all the poses for each yoga class offered.
 I would add recorded classes to the page.
-
 
 
 ### Accessibility
 ## Lighthouse 
-details>
+<details>
 <summary>lighthouse-inspection</summary>
 <br>
 
