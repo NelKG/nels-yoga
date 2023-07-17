@@ -177,35 +177,43 @@ W3C Code validator - CSS
             alt="Valid CSS!" />
     </a>
 </p>
+<p>
+<a href="http://jigsaw.w3.org/css-validator/check/referer">
+    <img style="border:0;width:88px;height:31px"
+        src="http://jigsaw.w3.org/css-validator/images/vcss-blue"
+        alt="Valid CSS!" />
+    </a>
+</p>
 
 <details>
 <summary>html code validator</summary>
 <br>
 
-![html](documentation/w3cindex.PNG)
+![html](documentation/w3cindex.png)
 
 </details>
 <details>
-<summary>contact code validator</summary>
+<summary>classes code validator</summary>
 <br>
 
-![classes](documentation/w3cclasses.PNG)
+![classes](documentation/w3cclasses.png)
+
+</details>
+<details>
+<summary> contact code validator</summary>
+<br>
+
+![contact](documentation/w3ccontact.png)
 
 </details>
 <details>
 <summary> booking code validator</summary>
 <br>
 
-![contact](documentation/w3ccontact.PNG)
+![booking](documentation/w3booking%20page.png)
 
 </details>
 <details>
-<summary> classes code validator</summary>
-<br>
-
-![booking](documentation/w3booking%20page.PNG)
-
-</details>
 
 ## Features
 
@@ -215,27 +223,35 @@ the type of yoga that is practised and what type of classes are offered.
 This section is used to explain the pages on the website.
 
 <details>
-<summary> home-pg</summary>   
-![home-pg](documentation/home-pg.jpg)
+<summary> home-pg</summary>
+
+![home-pg](documentation/home1.jpg)
 <br>
+
 </details>
 
 <details>
 <summary> Classes Page</summary>
-![classespage](/classespage.PNG)
+
+![classespage](documentation/classes3.jpg)
+
 <br>
 </details>
 
 <details>
 <summary>Contact Page</summary>
-![contact page](documentation/contact%20page.PNG)
+
+![contact page](documentation/contact1.jpg)
 <br>
+
 </details>
 
 <details>
 <summary> Booking Page</summary>
-![bookingpage](documentation/bookingpage.PNG)
+
+![bookingpage](documentation/booking1.jpg)
 <br>
+
 </details>
 
 ### General features on each page
@@ -250,10 +266,19 @@ Here is a screenshot of the footer illustrating the social media links
 
 <details>
 <summary>socialmedialinks</summary>
+
+![socialmedialinks](documentation/footer-links.png)
 <br>
-![socialmedialinks](documentation/footer-links.PNG)
+
 </details>
-<img src="C:\Users\Noelle\Desktop\course work\footer-links.PNG" width="100" style="display: block; margin: 0 auto;">.
+
+Here is a screenshot of the navigation menu bar
+
+<details>
+<summary> Menu Bar </summary>
+
+![Menu Bar](documentation/menubar.jpg)
+<br>
 
 ### Future Implementations
 
