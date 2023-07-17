@@ -251,7 +251,7 @@ Here is a screenshot of the footer illustrating the social media links
 <details>
 <summary>socialmedialinks</summary>
 <br>
-![socialmedialinks](assets/images/socialmedialinks.png)
+![socialmedialinks](documentation/footer-links.PNG)
 </details>
 <img src="URL" width="100" style="display: block; margin: 0 auto;">.
 
