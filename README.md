@@ -187,32 +187,31 @@ W3C Code validator - CSS
 <summary>html code validator</summary>
 <br>
 
-![html](documentation/html-w3c.png)
+![html](documentation/w3cindex.PNG)
 
 </details>
 <details>
 <summary>contact code validator</summary>
 <br>
 
-![contact](documentation/w3c-contactpage.png)
+![classes](documentation/w3cclasses.PNG)
 
 </details>
 <details>
 <summary> booking code validator</summary>
 <br>
 
-![booking](documentation/w3c-bookingpage.png)
+![contact](documentation/w3ccontact.PNG)
 
 </details>
 <summary> classes code validator</summary>
 <br>
 
-![classes](documentation/w3c-classespage.png)
+![booking](documentation/w3booking%20page.PNG)
 
 </details>
 
-The code validator for the classes pages shows 3 errors which I was unable to 
-debugg at this stage. 
+ 
 
 
 
@@ -223,7 +222,21 @@ practised and what type of classes are offered.
 
 This section is used to explain he pages on the website. 
 There are four pages. 
-Home Page, Classes Page, Contact Page and Booking Page. 
+<details>
+<summary> Home Page</summary>   
+![home](documentation/)
+<br>
+</details>
+<details>
+<summary> Classes Page</summary>
+
+![classes page]
+
+![contact page] 
+
+![booking Page] 
+
+![social media links] 
 
 ### General features on each page
 
