@@ -253,7 +253,7 @@ Here is a screenshot of the footer illustrating the social media links
 <br>
 ![socialmedialinks](documentation/footer-links.PNG)
 </details>
-<img src="URL" width="100" style="display: block; margin: 0 auto;">.
+<img src="C:\Users\Noelle\Desktop\course work\footer-links.PNG" width="100" style="display: block; margin: 0 auto;">.
 
 ### Future Implementations
 
