@@ -6,6 +6,7 @@
     border: none;
 }
 
+/* code for body on home page */
 body {
     font-family: Oswald, sans-serif;
     font-weight: 300;
@@ -24,7 +25,7 @@ h2 {
     color: #252525;
 
 }
-
+/* code for heading throughout out  */
 #label {
     display: flex;
     justify-content: center;
@@ -32,7 +33,7 @@ h2 {
     padding: 1rem;
 }
 
-
+/* code for the menu navigation links */
 #menu {
 
     font-size: 110%;
@@ -40,20 +41,14 @@ h2 {
     text-align: center;
     background-color: #f5f5dc;
 
-
-
-
-
 }
+/* styling for the menu links  */
 
 #menu li {
 
     list-style-type: none;
-
-
     display: flex;
     display: inline-block;
-
     margin: 30px;
     align-items: center;
     justify-content: space-around;
@@ -68,6 +63,7 @@ h2 {
 
 
 }
+/* adding a hover link to each navigation link */
 
 #menu a:hover {
     border-bottom: 1px solid #252525;
@@ -79,6 +75,7 @@ h2 {
     color: red;
 }
 
+/* code for hero image */
 #hero-outer {
     height: 53vh;
     width: 100%;
@@ -86,11 +83,11 @@ h2 {
     position: relative;
 
 }
+/* code for cover text */
 
 #cover-text,
 #cover-text h2 {
-    color: #2b2d2f;
-
+color: #2b2d2f;
 
 }
 
@@ -106,6 +103,7 @@ h1 {
     color: #808080;
 
 }
+/* styling for hero image on home page adding a zoom effect */
 
 #hero-image {
     display: flex;
@@ -137,6 +135,7 @@ h1 {
     }
 
 }
+/* cover text on the main page */
 
 #cover-text {
     font-size: 100%;
@@ -156,32 +155,29 @@ h1 {
 
 
 }
+/* code for text at bottom of home page */
 
 #cover-text h3 {
     font-size: 100%;
     font-family: Roboto, sans-serif;
     text-transform: lowercase;
     letter-spacing: 4px;
-
     width: 200px;
     height: 100px;
-
     padding-top: 40px;
     padding-right: 10px;
-
-
     right: 30px;
     left: 150px;
     position: absolute;
 
 }
 
+/* information for the classes which are being provided  */
 #Classes {
     display: flex;
     justify-content: center;
     padding: 1rem;
     background-color: beige;
-
     height: 20vh;
 
 }
@@ -191,7 +187,7 @@ h1 {
     justify-content: center;
     padding: 1rem;
 }
-
+/* code for class times and headings */
 
 h2 {
     display: flex;
@@ -201,24 +197,23 @@ h2 {
     justify-content: space-around;
     justify-content: space-between;
     height: 25px;
+    display: inline;
 
 }
 
 
 h3 {
     display: flex;
-    align-items: flex-end;
+    justify-content: center;
     height: 25px;
     display: inline;
     justify-content: space-around;
-    justify-content: space-around;
+    justify-content: space-between;
     color: #2b2d2f;
-    background: #f5f5dc;
-
+    background-color : #f5f5dc;   
 
 }
-
-
+/* code for footer  */
 
 #footer {
     display: flex;
@@ -226,8 +221,8 @@ h3 {
     height: 150px;
 
 
-
 }
+/* code for social media links  */
 
 .social-networks {
     text-align: center;
@@ -246,6 +241,7 @@ h3 {
     padding: 5%;
     color: #252525
 }
+/* code for contact details on contact page */
 
 #contact-text {
     letter-spacing: 4px;
@@ -253,13 +249,9 @@ h3 {
     left: 0;
     padding: 3rem;
     padding-top: 150px;
-
-
-
-
 }
 
-
+/* image added to contact page */
 
 #yoga-image {
     height: 400px;
@@ -283,10 +275,12 @@ h3 {
 
 }
 
+/* code for the footer  */
 footer {
     height: 15vh;
 }
-
+/*  code for social media links which are at the bottom of each page 
+and are active if they are clicked on */
 .social-media {
     text-align: center;
 
@@ -306,7 +300,7 @@ footer {
     color: #252525;
 }
 
-
+/* code for the booking form and an image behind the form */
 
 .container-form {
     margin: 0 auto;
@@ -335,7 +329,7 @@ input,
 select {
     padding: 10px 15px;
 }
-
+/* code for the button submit when making a booking */
 .btn {
     background-color: #252525;
     color: #fff;
@@ -352,7 +346,7 @@ h2 {
     display: flex;
     justify-content: center;
 }
-
+/* media query */
 
 @media only screen and (max-width: 480px) {
     #classes {
@@ -371,12 +365,12 @@ h2 {
 #label {
     font-size: 18px;
 }
+/* code for comments relating to client reviews and feedback */
 
 .client-feedback {
 
-        width: 200px;
+            width: 200px;
             height: 200px;
-        
             border-radius: 50%;
             position: absolute;
             top: 70%;
@@ -386,7 +380,7 @@ h2 {
     
 
 }
-
+/* code for feedback comment  */
 .feedback {
     width: 200px;
         height: 200px;
@@ -400,6 +394,7 @@ h2 {
         
 
 }
+/* code for feedback comment  */
 .feedback-more{
     width: 200px;
         height: 200px;
@@ -444,6 +439,8 @@ h2 {
     font-size: 14px;
 }
 
+/* media queries created to ensure that the website is responsive 
+for tablet, mobile device, desktop and laptop screen */
 @media only screen and (max-width: 780px) {
     #classes {
         font-size: 18px;

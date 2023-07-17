@@ -40,15 +40,15 @@ User Experience (UX)
 Nels Yoga is a website that is website that allows for her clients to look at:
 
 
-1. the times of classes available
-2. the type of classes and book a class at a time that is available and that suits a client
+1. The times of classes available
+2. The type of classes and book a class at a time that is available and that suits a client
 3. Key information on the site
-4. Nels philisophy
+4. Nell's philisophy
 5. How to contact her
-6. the dates and times of classes
-7. how to book for a class
-8. social media links to facebook, youtube and Instagram
-9. the location of the classes
+6. The dates and times of classes
+7. How to book for a class
+8. Social media links to facebook, youtube and Instagram
+9. The location of the classes
 
 
 ### Client Goals
@@ -133,7 +133,7 @@ The hero image is from [link for hero image][Link to website] (https://nicolaslu
 [Link for image on booking page](<https://www.istockphoto.com/search/search-by-asset?searchbyasset=true&assettype=image&alloweduse=availableforalluses&assetid=1322925863&page=2>
 https://unsplash.com/images/sports/yoga )
 
-I choose images which are symbolic of nels-yoga and the ethos of the studio.
+I choose images which are symbolic of nell's-yoga and the ethos of the studio.
 
 
 ### Wireframes
