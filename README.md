@@ -218,14 +218,14 @@ the type of yoga that is practised and what type of classes are offered.
 This section is used to explain the pages on the website. 
  
 <details>
-<summary> Home Page</summary>   
-![homepage](documentation/homepage.PNG)
+<summary> home-pg</summary>   
+![home-pg](documentation/home-pg.JPG)
 <br>
 </details>
 
 <details>
 <summary> Classes Page</summary>
-![classespage](documentation/classespage.PNG)
+![classespage](/classespage.PNG)
 <br>
 </details>
 
@@ -251,9 +251,9 @@ The footer is the same with the social media links on each page at the bottom.
 
 Here is a screenshot of the footer illustrating the social media links 
 <details>
-<summary>social media links</summary>
+<summary>socialmedialinks</summary>
 <br>
-![socialmedialinks.PNG](documentation/socialmedialinks.PNG) 
+![socialmedialinks](documentation/socialmedialinks.PNG) 
 </details>
 
 
@@ -271,7 +271,7 @@ I would add recorded classes to the page.
 <summary>lighthouse-inspection</summary>
 <br>
 
-![lighthouse-inspettion](documentation/lighthouse-inspection%20(1).pdf)
+![lighthouse-inspection](documentation/lighthouse-inspection%20(1).pdf)
 
 I have added a pdf document which shows all the lighthouse inspections for the desktop
 on every page. I've included one mobile inspection for the booking page 
@@ -301,7 +301,7 @@ As this is my first project HTML & CSS are the only languages  I used throughout
 ### Deployment
 
 1. Log in to Github.
-2. Find the repository for this project, nels-yoga.
+2. Find the repository for this project, Nell's-yoga.
 3. Click on the Settings link.
 4. Click on the Pages link in the left hand side navigation bar.
 5. In the Source section, choose main from the drop down select branch menu. Select Root from the drop down select folder menu.
